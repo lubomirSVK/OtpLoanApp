@@ -1,2 +1,1 @@
-# OtpLoanApp
-Selenium with firefox, opens page, fill in data, send a request.
+This application opens firefox with selenium, navigates to https://www.otpbanka.sk/otp-hypo-uver# and fills in the form with data, and send the application form.
